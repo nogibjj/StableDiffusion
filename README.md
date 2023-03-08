@@ -36,7 +36,7 @@ key:
 here is the outputs:
 output(1)                               |  output(2)                          | output(3)                           | output(4)
 :--------------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:
-![](/workspaces/StableDiffusion/stableDiffusion/out-0.png)  |  ![](/workspaces/StableDiffusion/stableDiffusion/out-1.png) | ![](/workspaces/StableDiffusion/stableDiffusion/out-2.png)  | ![](/workspaces/StableDiffusion/stableDiffusion/out-3.png) 
+![](stableDiffusion/out-0.png)  |  ![](stableDiffusion/out-1.png) | ![](stableDiffusion/out-2.png)  | ![](stableDiffusion/out-3.png) 
 
 those AI generate human face are really easy to tell the different with real human faces. 
 
@@ -60,4 +60,4 @@ The image variations endpoint allows you to generate a variation of a given imag
 here is the original picture and the generate picture. 
 original picture                        |  Dall-E-2 generate picture
 :--------------------------------------:|:-----------------------------------:
-![](https://www.pngall.com/wp-content/uploads/12/Male-Face.png)  |  ![](/workspaces/StableDiffusion/Dall-E-2/img-EVqUlzK6ZmVUHHVlSTlgs1Gk.png)
+![](https://www.pngall.com/wp-content/uploads/12/Male-Face.png)  |  ![](Dall-E-2/img-EVqUlzK6ZmVUHHVlSTlgs1Gk.png)
