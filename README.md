@@ -34,10 +34,9 @@ key:
 
 * Example, here we use prompt "Duke students portraits picture with face details and hair style" as input 
 here is the outputs:
-![picture1](https://replicate.delivery/pbxt/L82zn3RzAXqdD1s8OMLsl9DWzKalUlgw6NBpZ1yPUBG9KXJE/out-0.png)
-![picture2](https://replicate.delivery/pbxt/jMFQO2HwSHqENlHdfvPEJXMQS0OtVXvG7MZheYOZHaeqX5KhA/out-1.png)
-![picture3](https://replicate.delivery/pbxt/gDKBjAc0J7LHBlIffWXogPl9v30e06pf5r06h0fuoeMo9KXJE/out-2.png)
-![picture4](https://replicate.delivery/pbxt/rolASmRRt8aZEpAdJW6LhR4rBYxom3a981f5ZtPCbcW7VuSIA/out-3.png)
+output(1)                      |  output(2)                   | output(3)               | output(4)
+:--------------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:
+![](/workspaces/StableDiffusion/stableDiffusion/out-0.png)  |  ![](/workspaces/StableDiffusion/stableDiffusion/out-1.png) | ![](/workspaces/StableDiffusion/stableDiffusion/out-2.png)  | ![](/workspaces/StableDiffusion/stableDiffusion/out-3.png) 
 
 those AI generate human face are really easy to tell the different with real human faces. 
 
@@ -61,4 +60,4 @@ The image variations endpoint allows you to generate a variation of a given imag
 here is the original picture and the generate picture. 
 original picture                        |  Dall-E-2 generate picture
 :--------------------------------------:|:-----------------------------------:
-![](https://www.pngall.com/wp-content/uploads/12/Male-Face.png)  |  ![](https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZdO2R6R5rQc74cEU5gqIJB8D/user-loiyZbKCg2nWieAu1Ael40or/img-EVqUlzK6ZmVUHHVlSTlgs1Gk.png?st=2023-03-08T11%3A57%3A28Z&se=2023-03-08T13%3A57%3A28Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A42%3A21Z&ske=2023-03-08T21%3A42%3A21Z&sks=b&skv=2021-08-06&sig=eUGPnx6t3XzTSi9muudF1t1W27FIH9/iCgc9pw3bzpk%3D)
+![](https://www.pngall.com/wp-content/uploads/12/Male-Face.png)  |  ![](/workspaces/StableDiffusion/Dall-E-2/img-EVqUlzK6ZmVUHHVlSTlgs1Gk.png)
