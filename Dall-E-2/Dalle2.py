@@ -29,7 +29,7 @@ def image_to_text(localurl):
     response = openai.Image.create_variation(
       image=open('image1.png', "rb"),
       n=1,
-      size="256x256"
+      size="1024x1024"
     )
     image_url = response['data'][0]['url']
     print(image_url)
