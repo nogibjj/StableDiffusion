@@ -34,7 +34,7 @@ key:
 
 * Example, here we use prompt "Duke students portraits picture with face details and hair style" as input 
 here is the outputs:
-output(1)                      |  output(2)                   | output(3)               | output(4)
+output(1)                               |  output(2)                          | output(3)                           | output(4)
 :--------------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:
 ![](/workspaces/StableDiffusion/stableDiffusion/out-0.png)  |  ![](/workspaces/StableDiffusion/stableDiffusion/out-1.png) | ![](/workspaces/StableDiffusion/stableDiffusion/out-2.png)  | ![](/workspaces/StableDiffusion/stableDiffusion/out-3.png) 
 
