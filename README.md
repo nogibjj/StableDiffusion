@@ -34,9 +34,14 @@ key:
 
 * Example, here we use prompt "Duke students portraits picture with face details and hair style" as input 
 here is the outputs:
+
 output(1)                               |  output(2)                          | output(3)                           | output(4)
 :--------------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:
-![](stableDiffusion/out-0.png)  |  ![](stableDiffusion/out-1.png) | ![](stableDiffusion/out-2.png)  | ![](stableDiffusion/out-3.png) 
+![](stableDiffusion/out-0.png)          |  ![](stableDiffusion/out-1.png)     | ![](stableDiffusion/out-2.png)      | ![](stableDiffusion/out-3.png) 
+
+
+![](stableDiffusion/out-0.png)  ![](stableDiffusion/out-1.png) ![](stableDiffusion/out-2.png)  ![](stableDiffusion/out-3.png) 
+
 
 those AI generate human face are really easy to tell the different with real human faces. 
 
