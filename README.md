@@ -40,9 +40,6 @@ output(1)                               |  output(2)                          | 
 ![](stableDiffusion/out-0.png)          |  ![](stableDiffusion/out-1.png)     | ![](stableDiffusion/out-2.png)      | ![](stableDiffusion/out-3.png) 
 
 
-![](stableDiffusion/out-0.png)  ![](stableDiffusion/out-1.png) ![](stableDiffusion/out-2.png)  ![](stableDiffusion/out-3.png) 
-
-
 those AI generate human face are really easy to tell the different with real human faces. 
 
 2. pic to word 
