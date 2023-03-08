@@ -6,8 +6,7 @@ version = model.versions.get("db21e45d3f7023abc2a46ee38a23973f6dce16bb082a930b0c
 # https://replicate.com/stability-ai/stable-diffusion/versions/db21e45d3f7023abc2a46ee38a23973f6dce16bb082a930b0c49861f96d1e5bf#input
 inputs = {
     # Input prompt
-    'prompt': "Selecting Hyperparameters 1. Start with default values: Many deep learning frameworks provide default values for hyperparameters. These values have been chosen to work well in a wide range of situations, and can be a good starting point.",
-
+    'prompt': "Duke students portraits picture with face details and hair style",
     # pixel dimensions of output image
     'image_dimensions': "768x768",
 
