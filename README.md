@@ -34,10 +34,10 @@ key:
 
 * Example, here we use prompt "Duke students portraits picture with face details and hair style" as input 
 here is the outputs:
-[picture1]"https://replicate.delivery/pbxt/L82zn3RzAXqdD1s8OMLsl9DWzKalUlgw6NBpZ1yPUBG9KXJE/out-0.png"
-[picture2]"https://replicate.delivery/pbxt/jMFQO2HwSHqENlHdfvPEJXMQS0OtVXvG7MZheYOZHaeqX5KhA/out-1.png"
-[picture3]"https://replicate.delivery/pbxt/gDKBjAc0J7LHBlIffWXogPl9v30e06pf5r06h0fuoeMo9KXJE/out-2.png"
-[picture4]"https://replicate.delivery/pbxt/rolASmRRt8aZEpAdJW6LhR4rBYxom3a981f5ZtPCbcW7VuSIA/out-3.png"
+![picture1](https://replicate.delivery/pbxt/L82zn3RzAXqdD1s8OMLsl9DWzKalUlgw6NBpZ1yPUBG9KXJE/out-0.png)
+![picture2](https://replicate.delivery/pbxt/jMFQO2HwSHqENlHdfvPEJXMQS0OtVXvG7MZheYOZHaeqX5KhA/out-1.png)
+![picture3](https://replicate.delivery/pbxt/gDKBjAc0J7LHBlIffWXogPl9v30e06pf5r06h0fuoeMo9KXJE/out-2.png)
+![picture4](https://replicate.delivery/pbxt/rolASmRRt8aZEpAdJW6LhR4rBYxom3a981f5ZtPCbcW7VuSIA/out-3.png)
 
 
 2. pic to word 
