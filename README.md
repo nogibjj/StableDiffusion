@@ -53,7 +53,7 @@ Generated images can have a size of 256x256, 512x512, or 1024x1024 pixels. Small
 You can request 1-10 images at a time using the n parameter.
 here is the result:
 import promp: "one duke student's portrait picture"
-![dukestudentgenerate1](https://oaidalleapiprodscus.blob.core.windows.net/private/org-ZdO2R6R5rQc74cEU5gqIJB8D/user-loiyZbKCg2nWieAu1Ael40or/img-9W1JQQvnnixVGYlSIu0n1wGg.png?st=2023-03-08T11%3A17%3A23Z&se=2023-03-08T13%3A17%3A23Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A43%3A08Z&ske=2023-03-08T21%3A43%3A08Z&sks=b&skv=2021-08-06&sig=R0sW9XagXUP/HOT9SFh2dA8z8ptiOINHJCindZvLhNA%3D)
+![dukestudentgenerate1](Dall-E-2/123.png)
 
 
 2. image to image
