@@ -1,25 +1,36 @@
 [![CI](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml)
-## Template for Python projects 
+## Stable Diffusion
 
-1. First thing to do on launch is to open a new shell and verify virtualenv is sourced.
+1. Words to pic
+key:
+* Input prompt
 
-Things included are:
+* pixel dimensions of output image "256x256" or "768x768",
 
-* `Makefile`
+    > 'image_dimensions': "768x768",
 
-* `Pytest`
+* Specify things to not see in the output
+    * 'negative_prompt': ...,
 
-* `pandas`
+*  Number of images to output.
+    *  Range: 1 to 4
 
-* `Pylint`
+    > 'num_outputs': x,
 
-* `Dockerfile`
+* Number of denoising steps
+    * Range: 1 to 500
+    > 'num_inference_steps': 50,
 
-* `GitHub copilot`
+* Scale for classifier-free guidance
+    * Range: 1 to 20
+    > 'guidance_scale': 7.5,
 
-* `jupyter` and `ipython` 
+* Choose a scheduler.
+    > 'scheduler': "DPMSolverMultistep",
 
-* A base set of libraries for devops and web
+*  Random seed. Leave blank to randomize the seed
+    > 'seed': ...,
 
-* `githubactions` 
 
+2. pic to word 
+import picture and find the elements in the pic and print it out.
