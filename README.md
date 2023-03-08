@@ -39,6 +39,7 @@ here is the outputs:
 ![picture3](https://replicate.delivery/pbxt/gDKBjAc0J7LHBlIffWXogPl9v30e06pf5r06h0fuoeMo9KXJE/out-2.png)
 ![picture4](https://replicate.delivery/pbxt/rolASmRRt8aZEpAdJW6LhR4rBYxom3a981f5ZtPCbcW7VuSIA/out-3.png)
 
+those AI generate human face are really easy to tell the different with real human faces. 
 
 2. pic to word 
 import picture and find the elements in the pic and print it out.
